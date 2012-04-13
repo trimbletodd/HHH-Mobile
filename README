@@ -1,21 +1,18 @@
-Server Developer Setup
+Welcome to your Appcelerator Titanium Mobile Project
 
-clone the HHH-Server repo at git@github.com:carlyle/HHH-Server.git
+This is a blank project.  Start by editing your application's app.js to 
+make your first mobile project using Titanium.
 
 
-Mobile Developer Setup
 
-### Installing Titanium (Appcelerator)
-#### Requirements:
-* iPhone SDK
-  * http://www.tuaw.com/2009/01/25/iphone-dev-101-downloading-and-install-the-iphone-sdk/
-* Sun Java Development Kit 6 (aka JDK 1.6)
-* Android Development Kit
-  * http://developer.android.com/sdk/installing.html
-  * Titanium requires that you copy `/platform-tools/adb` to `/tools/adb`
+----------------------------------
+Stuff our legal folk make us say:
 
-##### OS X
+Appcelerator, Appcelerator Titanium and associated marks and logos are 
+trademarks of Appcelerator, Inc. 
 
-[Download It Here](http://www.appcelerator.com/products/download/)
+Titanium is Copyright (c) 2009-2010 by Appcelerator, Inc. All Rights Reserved.
 
-Install like a normal application.`
+Titanium is licensed under the Apache Public License (Version 2). Please
+see the LICENSE file for the full license.
+
